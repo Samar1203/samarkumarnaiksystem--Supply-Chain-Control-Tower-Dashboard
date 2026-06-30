@@ -16,7 +16,7 @@ Dashboard
 https://github.com/Samar1203/samarkumarnaiksystem--Supply-Chain-Control-Tower-Dashboard/blob/02a56d6b911de257e4a4771a152644f7d91558d7/Screenshot%202026-06-28%20184531.png
 
 Shipment Tracking
-
+https://github.com/Samar1203/samarkumarnaiksystem--Supply-Chain-Control-Tower-Dashboard/blob/main/Screenshot%202026-06-28%20184548.png?raw=true
 
 Inventory 
 
