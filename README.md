@@ -21,11 +21,8 @@ https://github.com/Samar1203/samarkumarnaiksystem--Supply-Chain-Control-Tower-Da
 Inventory 
 https://github.com/Samar1203/samarkumarnaiksystem--Supply-Chain-Control-Tower-Dashboard/blob/137e0a272a77c41380b49a15288d6293e197a424/Screenshot%202026-06-28%20184602.png
 
-
 Analytics
-
-
-
+https://github.com/Samar1203/samarkumarnaiksystem--Supply-Chain-Control-Tower-Dashboard/blob/327803092b0cac0b433c2d7b5323becf3a647ef1/Screenshot%202026-06-28%20184627.png
 
 
 ## Features
